@@ -15,4 +15,4 @@ The repository includes the following linear regression models:
 
 Each model is implemented with clarity and accompanied by relevant documentation.
 
-
+Any improvements or corrections to the process are duly welcomed and noted.
